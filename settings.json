@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THELAGLODSS1.aternos.me",
-    "port":54809,
-    "version": "1.26.30.5",
+    "ip": "THEMULTIVERS.aternos.me",
+    "port":37207,
+    "version": "1.26.51.1",
     "try-creative": false
   },
   "position": {
